@@ -1,0 +1,20 @@
+<link href="Mythology_site.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body {
+	background-color: #2B488C;
+}
+a:link {
+	color: #FFFFFF;
+}
+</style>
+<div id="Container">
+  <div id="Heading"><img src="../assets/starswork banner project (2).jpg" width="926" height="160" alt=""/></div>
+  <div id="Nav"><ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="Conatct us.html">Contact Us</a><br>
+      </li>
+  </ul></div>
+  <div id="Text"><img src="../assets/Greek_Gods.jpg" width="600" height="410" alt=""/></div>
+  <div id="Image"><img src="../assets/769cb1c8-0021-4a03-8c4c-1aee98fa600c.jpg" width="423" height="427" alt=""/></div>
+</div>
